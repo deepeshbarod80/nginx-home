@@ -1,5 +1,5 @@
 
-### Brief Introduction to Nginx
+# Brief Introduction to Nginx
 Nginx (pronounced "engine-x") is an open-source, high-performance web server, reverse proxy, and load balancer. Initially released in 2004 by Igor Sysoev, it was designed to address the C10k problem (handling 10,000 concurrent connections). Nginx is known for its lightweight architecture, event-driven model, and ability to efficiently handle high traffic with low resource consumption. It powers many of the world's busiest websites, including Netflix, Airbnb, and GitHub, due to its scalability and reliability.
 
 Nginx is widely used for serving static content, acting as a reverse proxy for dynamic applications, load balancing, caching, and managing API traffic. Its modular design and extensive configuration options make it a versatile tool for modern web deployments.
